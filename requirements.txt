@@ -5,10 +5,5 @@ wordcloud
 matplotlib
 CountVectorizer
 scikit-learn
-streamlit
-pandas
 numpy
 pillow
-wordcloud
-scikit-learn
-matplotlib
