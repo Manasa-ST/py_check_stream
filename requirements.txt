@@ -1,9 +1,8 @@
 streamlit
 pandas
-plotly
-wordcloud
-matplotlib
-CountVectorizer
-scikit-learn
 numpy
 pillow
+wordcloud
+scikit-learn
+matplotlib
+plotly
