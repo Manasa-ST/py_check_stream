@@ -1,0 +1,251 @@
+participant_id,participant_name,college,state,day,event,event_category,group_size,event_rating,feedback
+1,Michael Baker,Eastwood Institute,Goa,3,Rap,Music,1,4.2,Great sound system for Rap. Please keep this up next year!
+2,Ryan Martinez,Lakeshore University,Uttar Pradesh,3,Stand-up Comedy,Comedy,2,3.9,Great sound system for Stand-up Comedy. Please keep this up next year!
+3,Robert Ferguson,Eastwood Institute,Delhi,2,Poetry,Literature,5,3.3,Could improve the stage setup for Poetry sessions.
+4,Jason Williams,Riverbend College,West Bengal,1,Drama,Theatre,2,4.2,I enjoyed meeting participants from different colleges during Drama.
+5,David Clark,Metro Cultural College,Tamil Nadu,5,Stand-up Comedy,Comedy,5,3.2,Could improve the stage setup for Stand-up Comedy sessions.
+6,Ashley Frye MD,Metro Cultural College,Uttar Pradesh,4,Rap,Music,4,3.3,The energy during Rap was top-notch and unforgettable.
+7,Nathan Boyle,Metro Cultural College,Maharashtra,5,Drama,Theatre,3,3.7,The energy during Drama was top-notch and unforgettable.
+8,Heather Stanton,Northgate College,Tamil Nadu,1,Drama,Theatre,3,4.1,"The timing for Drama was a little tight, but overall great experience."
+9,Jonathon Perez,Northgate College,Uttar Pradesh,1,Singing,Music,3,4.6,Amazing vibe and super supportive crowd for Singing!
+10,Denise Patel,Zenith Institute,Rajasthan,2,Drama,Theatre,5,4.0,Loved the organization and the judges' feedback after Drama.
+11,Lorraine Cole,Riverbend College,Maharashtra,5,DJ Battle,Music,4,3.3,The energy during DJ Battle was top-notch and unforgettable.
+12,Rita Barrett,Metro Cultural College,Goa,4,Magic Show,Performance,1,4.2,The energy during Magic Show was top-notch and unforgettable.
+13,Kelsey West,Metro Cultural College,Telangana,1,DJ Battle,Music,3,3.7,Loved the organization and the judges' feedback after DJ Battle.
+14,Sandra Richardson,Metro Cultural College,Uttar Pradesh,1,Drama,Theatre,6,4.0,The energy during Drama was top-notch and unforgettable.
+15,Philip Trujillo,Zenith Institute,Kerala,5,Magic Show,Performance,3,3.9,Great sound system for Magic Show. Please keep this up next year!
+16,Michael Chapman,Apex College,Uttar Pradesh,4,Magic Show,Performance,5,4.6,The energy during Magic Show was top-notch and unforgettable.
+17,Sandra Mccoy,INBLOOM Academy,Kerala,5,Magic Show,Performance,4,4.5,Loved the organization and the judges' feedback after Magic Show.
+18,James Villegas,Zenith Institute,Tamil Nadu,1,Singing,Music,3,3.0,Great sound system for Singing. Please keep this up next year!
+19,Mr. Jordan Martinez Jr.,Riverbend College,West Bengal,1,Rap,Music,6,3.9,I wish there was more audience interaction in Rap.
+20,Jose Lucas,Zenith Institute,Delhi,3,Magic Show,Performance,4,3.4,Amazing vibe and super supportive crowd for Magic Show!
+21,Kayla Orr,Sunrise University,Telangana,4,Drama,Theatre,4,3.4,Could improve the stage setup for Drama sessions.
+22,Kelsey Garcia,Eastwood Institute,Maharashtra,4,Painting,Art,4,4.2,I wish there was more audience interaction in Painting.
+23,Ms. Claire Robinson,Zenith Institute,Goa,5,Fashion Show,Style,3,3.6,Loved the organization and the judges' feedback after Fashion Show.
+24,Eric Ramos,Lakeshore University,West Bengal,3,Drama,Theatre,1,4.6,Amazing vibe and super supportive crowd for Drama!
+25,Donald Velez,Northgate College,Uttar Pradesh,3,Stand-up Comedy,Comedy,6,3.4,I enjoyed meeting participants from different colleges during Stand-up Comedy.
+26,Ashley Haynes,Sunrise University,Karnataka,1,Painting,Art,1,4.0,The energy during Painting was top-notch and unforgettable.
+27,Dana Turner,Eastwood Institute,Telangana,3,Painting,Art,6,5.0,Loved the organization and the judges' feedback after Painting.
+28,Susan Bishop,Riverbend College,Maharashtra,4,Poetry,Literature,1,4.6,"The timing for Poetry was a little tight, but overall great experience."
+29,Julie Lewis,Lakeshore University,Delhi,4,Magic Show,Performance,1,3.8,Could improve the stage setup for Magic Show sessions.
+30,Peggy Wyatt,Metro Cultural College,Maharashtra,1,Poetry,Literature,3,3.4,I wish there was more audience interaction in Poetry.
+31,Brian Pratt,Eastwood Institute,Rajasthan,1,DJ Battle,Music,1,4.7,The energy during DJ Battle was top-notch and unforgettable.
+32,Natalie Walsh,Highland Arts College,Uttar Pradesh,5,Rap,Music,4,3.4,"The timing for Rap was a little tight, but overall great experience."
+33,Mary Rhodes,Riverbend College,Telangana,2,Fashion Show,Style,5,3.7,I wish there was more audience interaction in Fashion Show.
+34,Theresa Rhodes,INBLOOM Academy,Tamil Nadu,5,Singing,Music,1,4.4,The energy during Singing was top-notch and unforgettable.
+35,Jason Myers,Apex College,Karnataka,1,Drama,Theatre,2,3.2,I enjoyed meeting participants from different colleges during Drama.
+36,Alexa Cook,Sunrise University,Karnataka,2,Fashion Show,Style,2,4.3,I wish there was more audience interaction in Fashion Show.
+37,Jasmine Pierce,Metro Cultural College,Kerala,5,Stand-up Comedy,Comedy,6,3.2,"The timing for Stand-up Comedy was a little tight, but overall great experience."
+38,Jessica Rogers,Lakeshore University,Delhi,1,Rap,Music,6,3.5,I enjoyed meeting participants from different colleges during Rap.
+39,Ashley Jones,Metro Cultural College,Rajasthan,3,Painting,Art,6,4.7,Loved the organization and the judges' feedback after Painting.
+40,Cynthia Lewis,Lakeshore University,Tamil Nadu,5,Magic Show,Performance,5,3.1,Could improve the stage setup for Magic Show sessions.
+41,Richard Wade,Zenith Institute,Delhi,4,DJ Battle,Music,1,3.2,"The timing for DJ Battle was a little tight, but overall great experience."
+42,James Hill,Northgate College,Maharashtra,5,DJ Battle,Music,1,3.6,"The timing for DJ Battle was a little tight, but overall great experience."
+43,Paul Ross,Northgate College,Uttar Pradesh,1,DJ Battle,Music,4,4.3,Loved the organization and the judges' feedback after DJ Battle.
+44,Donna Cruz,Apex College,Maharashtra,1,Dance,Performance,1,3.7,The energy during Dance was top-notch and unforgettable.
+45,Melissa Burgess,Northgate College,West Bengal,3,Singing,Music,2,4.0,"The timing for Singing was a little tight, but overall great experience."
+46,Joseph Williams,Metro Cultural College,Karnataka,3,Painting,Art,5,4.7,The energy during Painting was top-notch and unforgettable.
+47,April Davidson,Riverbend College,Kerala,1,Poetry,Literature,2,3.5,Could improve the stage setup for Poetry sessions.
+48,Sandra Jenkins,Highland Arts College,Tamil Nadu,4,Drama,Theatre,6,4.7,I enjoyed meeting participants from different colleges during Drama.
+49,Mallory Donovan,Eastwood Institute,Uttar Pradesh,3,Stand-up Comedy,Comedy,1,4.2,I wish there was more audience interaction in Stand-up Comedy.
+50,Daniel Nielsen,Sunrise University,Rajasthan,3,Painting,Art,2,4.7,Loved the organization and the judges' feedback after Painting.
+51,Cody Best,Metro Cultural College,Maharashtra,3,DJ Battle,Music,4,4.0,The energy during DJ Battle was top-notch and unforgettable.
+52,Elizabeth Hall,Eastwood Institute,Karnataka,2,Poetry,Literature,5,4.7,I wish there was more audience interaction in Poetry.
+53,Elizabeth Black,Riverbend College,Uttar Pradesh,2,Stand-up Comedy,Comedy,2,4.6,I wish there was more audience interaction in Stand-up Comedy.
+54,Mrs. Michelle Gonzalez DDS,Eastwood Institute,Kerala,4,Magic Show,Performance,1,4.9,I wish there was more audience interaction in Magic Show.
+55,Rebecca Vega,Highland Arts College,Delhi,3,Rap,Music,2,3.6,The energy during Rap was top-notch and unforgettable.
+56,Barry Wood,Zenith Institute,Uttar Pradesh,4,Dance,Performance,2,3.8,The energy during Dance was top-notch and unforgettable.
+57,Allison Casey,Metro Cultural College,Rajasthan,2,Rap,Music,4,3.2,Could improve the stage setup for Rap sessions.
+58,Madeline Johnson,Eastwood Institute,West Bengal,5,DJ Battle,Music,6,5.0,Could improve the stage setup for DJ Battle sessions.
+59,Melissa Zavala,Sunrise University,Maharashtra,2,Poetry,Literature,1,4.8,I wish there was more audience interaction in Poetry.
+60,Joseph House,Highland Arts College,Maharashtra,2,Dance,Performance,2,4.4,"The timing for Dance was a little tight, but overall great experience."
+61,James Norris,Zenith Institute,Uttar Pradesh,1,Singing,Music,2,4.3,Could improve the stage setup for Singing sessions.
+62,Michael Butler,Highland Arts College,Telangana,3,Magic Show,Performance,1,3.6,"The timing for Magic Show was a little tight, but overall great experience."
+63,Dean Wells,INBLOOM Academy,Goa,1,Poetry,Literature,5,3.8,Loved the organization and the judges' feedback after Poetry.
+64,Courtney Stone,Northgate College,Goa,3,Magic Show,Performance,4,3.2,Loved the organization and the judges' feedback after Magic Show.
+65,Mark Johnson,Metro Cultural College,Tamil Nadu,2,Stand-up Comedy,Comedy,5,3.8,I wish there was more audience interaction in Stand-up Comedy.
+66,Helen Clayton,Highland Arts College,Maharashtra,5,Stand-up Comedy,Comedy,1,4.0,I wish there was more audience interaction in Stand-up Comedy.
+67,Anthony Harvey,Highland Arts College,Goa,4,Fashion Show,Style,4,3.7,Great sound system for Fashion Show. Please keep this up next year!
+68,Mr. Chase Freeman,Eastwood Institute,Goa,5,Magic Show,Performance,3,3.1,I enjoyed meeting participants from different colleges during Magic Show.
+69,Cathy Butler,Northgate College,Tamil Nadu,3,Stand-up Comedy,Comedy,5,4.8,The energy during Stand-up Comedy was top-notch and unforgettable.
+70,Eric Moss,Sunrise University,Kerala,5,Painting,Art,3,3.3,The energy during Painting was top-notch and unforgettable.
+71,Amy Fowler,Riverbend College,Uttar Pradesh,2,Drama,Theatre,2,4.6,The energy during Drama was top-notch and unforgettable.
+72,Michele Henderson,Apex College,Tamil Nadu,1,DJ Battle,Music,2,3.1,Loved the organization and the judges' feedback after DJ Battle.
+73,Casey Jimenez,Sunrise University,Rajasthan,2,Drama,Theatre,2,3.6,Amazing vibe and super supportive crowd for Drama!
+74,Edward Warner,Apex College,Delhi,5,Stand-up Comedy,Comedy,4,3.6,I wish there was more audience interaction in Stand-up Comedy.
+75,Peter Davis,Apex College,Goa,1,Magic Show,Performance,4,4.6,Amazing vibe and super supportive crowd for Magic Show!
+76,Sabrina Brennan,INBLOOM Academy,Maharashtra,4,Magic Show,Performance,6,4.2,Amazing vibe and super supportive crowd for Magic Show!
+77,Katherine Morales,Highland Arts College,Kerala,2,DJ Battle,Music,3,4.8,Great sound system for DJ Battle. Please keep this up next year!
+78,Nicole Ward,Northgate College,West Bengal,1,Fashion Show,Style,2,3.6,Amazing vibe and super supportive crowd for Fashion Show!
+79,David Williams,Northgate College,West Bengal,1,Fashion Show,Style,2,3.2,I wish there was more audience interaction in Fashion Show.
+80,Mark Mejia,Sunrise University,West Bengal,3,Poetry,Literature,2,3.6,Could improve the stage setup for Poetry sessions.
+81,Jack Miles,Eastwood Institute,Karnataka,5,Dance,Performance,4,4.4,Great sound system for Dance. Please keep this up next year!
+82,William Griffin,Sunrise University,Delhi,3,Poetry,Literature,4,4.4,"The timing for Poetry was a little tight, but overall great experience."
+83,Kiara Cuevas,Eastwood Institute,Maharashtra,4,Painting,Art,5,4.9,"The timing for Painting was a little tight, but overall great experience."
+84,Nicole Fox,Zenith Institute,Uttar Pradesh,2,Magic Show,Performance,4,3.2,I wish there was more audience interaction in Magic Show.
+85,Shawn House,Sunrise University,Karnataka,3,Dance,Performance,5,4.7,I enjoyed meeting participants from different colleges during Dance.
+86,Edward Calderon,Metro Cultural College,Kerala,5,Painting,Art,6,3.1,I enjoyed meeting participants from different colleges during Painting.
+87,Victoria Clark,Riverbend College,Delhi,3,Drama,Theatre,6,4.5,Could improve the stage setup for Drama sessions.
+88,Sarah Stevens,Lakeshore University,Telangana,5,Magic Show,Performance,3,3.9,Loved the organization and the judges' feedback after Magic Show.
+89,Carl Brown,INBLOOM Academy,Maharashtra,4,Dance,Performance,2,4.3,The energy during Dance was top-notch and unforgettable.
+90,Kevin Wise,INBLOOM Academy,Telangana,4,Drama,Theatre,6,4.9,Loved the organization and the judges' feedback after Drama.
+91,David Gardner,Eastwood Institute,Goa,2,Poetry,Literature,5,4.2,I enjoyed meeting participants from different colleges during Poetry.
+92,Jennifer Martin,INBLOOM Academy,West Bengal,1,Painting,Art,2,3.9,I wish there was more audience interaction in Painting.
+93,Veronica Graham,Eastwood Institute,Telangana,2,Fashion Show,Style,4,3.1,The energy during Fashion Show was top-notch and unforgettable.
+94,Elizabeth Perez,INBLOOM Academy,West Bengal,3,Drama,Theatre,3,3.6,I wish there was more audience interaction in Drama.
+95,Phillip Rodriguez,Northgate College,Rajasthan,2,Magic Show,Performance,2,4.7,"The timing for Magic Show was a little tight, but overall great experience."
+96,Dawn Sparks,Eastwood Institute,Tamil Nadu,1,Poetry,Literature,1,4.9,I enjoyed meeting participants from different colleges during Poetry.
+97,Crystal Parker,Highland Arts College,Telangana,3,Stand-up Comedy,Comedy,2,3.5,Could improve the stage setup for Stand-up Comedy sessions.
+98,Diamond Petersen,Apex College,West Bengal,1,Dance,Performance,5,4.6,Great sound system for Dance. Please keep this up next year!
+99,Ronald Garcia,Northgate College,Tamil Nadu,4,Magic Show,Performance,5,3.7,Great sound system for Magic Show. Please keep this up next year!
+100,Dr. Desiree Robbins,Highland Arts College,Maharashtra,3,Painting,Art,6,4.4,I enjoyed meeting participants from different colleges during Painting.
+101,Misty Wilcox,Highland Arts College,Tamil Nadu,5,Dance,Performance,1,4.9,Amazing vibe and super supportive crowd for Dance!
+102,Sherry Mata,Zenith Institute,Uttar Pradesh,5,Magic Show,Performance,5,4.6,"The timing for Magic Show was a little tight, but overall great experience."
+103,Amanda May,Lakeshore University,Maharashtra,5,DJ Battle,Music,5,3.8,Amazing vibe and super supportive crowd for DJ Battle!
+104,Veronica Yates,Northgate College,Maharashtra,2,Painting,Art,3,4.3,Great sound system for Painting. Please keep this up next year!
+105,Jacqueline Jackson,Zenith Institute,Tamil Nadu,2,Drama,Theatre,2,4.1,Great sound system for Drama. Please keep this up next year!
+106,Linda Curry,Riverbend College,Kerala,4,Singing,Music,4,3.1,I enjoyed meeting participants from different colleges during Singing.
+107,Michael Cruz,Northgate College,Tamil Nadu,4,Magic Show,Performance,5,3.5,Amazing vibe and super supportive crowd for Magic Show!
+108,Robert Estrada,Eastwood Institute,Telangana,5,Painting,Art,1,3.2,Loved the organization and the judges' feedback after Painting.
+109,Colton Mitchell,Northgate College,Tamil Nadu,2,Rap,Music,5,4.0,The energy during Rap was top-notch and unforgettable.
+110,Tina Martin,Zenith Institute,Rajasthan,3,Dance,Performance,1,3.5,Great sound system for Dance. Please keep this up next year!
+111,Brooke Barrera,Riverbend College,Rajasthan,1,DJ Battle,Music,5,4.9,The energy during DJ Battle was top-notch and unforgettable.
+112,James Campbell,Zenith Institute,Kerala,3,Painting,Art,2,3.3,Great sound system for Painting. Please keep this up next year!
+113,Dean Clements,Lakeshore University,Uttar Pradesh,1,Magic Show,Performance,1,3.5,Great sound system for Magic Show. Please keep this up next year!
+114,Robert Ferguson,Northgate College,Uttar Pradesh,4,Poetry,Literature,2,4.5,Amazing vibe and super supportive crowd for Poetry!
+115,Ashley Mack,Zenith Institute,West Bengal,4,Fashion Show,Style,4,3.0,I enjoyed meeting participants from different colleges during Fashion Show.
+116,Deborah Lowe,Riverbend College,Kerala,4,Drama,Theatre,1,4.3,The energy during Drama was top-notch and unforgettable.
+117,Jason Beasley,Zenith Institute,West Bengal,5,Poetry,Literature,6,3.2,I enjoyed meeting participants from different colleges during Poetry.
+118,Robert Williams,Sunrise University,Tamil Nadu,3,Fashion Show,Style,5,3.4,I enjoyed meeting participants from different colleges during Fashion Show.
+119,Alyssa Goodman,Metro Cultural College,West Bengal,3,Singing,Music,3,4.9,The energy during Singing was top-notch and unforgettable.
+120,Jasmine Anderson,Sunrise University,Goa,2,DJ Battle,Music,2,4.0,The energy during DJ Battle was top-notch and unforgettable.
+121,Jim Lawson,Lakeshore University,Karnataka,5,Magic Show,Performance,5,3.7,I enjoyed meeting participants from different colleges during Magic Show.
+122,Julie Atkins,INBLOOM Academy,Maharashtra,3,Fashion Show,Style,2,3.2,The energy during Fashion Show was top-notch and unforgettable.
+123,Tyler Martinez,Riverbend College,Tamil Nadu,1,Dance,Performance,2,3.9,Loved the organization and the judges' feedback after Dance.
+124,Douglas Wall,Eastwood Institute,Rajasthan,4,Poetry,Literature,3,4.3,Amazing vibe and super supportive crowd for Poetry!
+125,Lisa Bryant,Metro Cultural College,Karnataka,4,Rap,Music,5,3.4,The energy during Rap was top-notch and unforgettable.
+126,Brian May,Sunrise University,Delhi,2,Fashion Show,Style,1,4.6,I wish there was more audience interaction in Fashion Show.
+127,Jennifer Miranda DDS,Zenith Institute,Maharashtra,4,Dance,Performance,4,3.6,Great sound system for Dance. Please keep this up next year!
+128,Laura Brown,Apex College,West Bengal,1,DJ Battle,Music,6,4.3,"The timing for DJ Battle was a little tight, but overall great experience."
+129,Mckenzie Wong,Riverbend College,Rajasthan,5,Drama,Theatre,3,4.0,I wish there was more audience interaction in Drama.
+130,Sheila Hale MD,Lakeshore University,Delhi,2,Rap,Music,5,4.8,I enjoyed meeting participants from different colleges during Rap.
+131,Stephen Flynn,Eastwood Institute,Kerala,1,Stand-up Comedy,Comedy,6,3.8,I enjoyed meeting participants from different colleges during Stand-up Comedy.
+132,Michael Miles,Zenith Institute,Rajasthan,1,Painting,Art,1,4.6,Great sound system for Painting. Please keep this up next year!
+133,Ashley Bright,Highland Arts College,Telangana,5,DJ Battle,Music,4,3.7,Amazing vibe and super supportive crowd for DJ Battle!
+134,Eric Cooley,INBLOOM Academy,Kerala,2,Singing,Music,6,4.9,"The timing for Singing was a little tight, but overall great experience."
+135,Amy Smith,Eastwood Institute,Tamil Nadu,1,Dance,Performance,4,3.3,"The timing for Dance was a little tight, but overall great experience."
+136,Sarah Sanders,Highland Arts College,Goa,4,Singing,Music,6,4.8,The energy during Singing was top-notch and unforgettable.
+137,Michael Kennedy,Metro Cultural College,Delhi,1,Dance,Performance,6,3.9,I enjoyed meeting participants from different colleges during Dance.
+138,Joyce Merritt,Lakeshore University,Kerala,3,Drama,Theatre,2,4.6,"The timing for Drama was a little tight, but overall great experience."
+139,Samantha Cook,Zenith Institute,Delhi,2,DJ Battle,Music,4,4.1,Could improve the stage setup for DJ Battle sessions.
+140,Cody Wade,Apex College,Uttar Pradesh,5,Fashion Show,Style,1,4.7,The energy during Fashion Show was top-notch and unforgettable.
+141,Stacy Gibson,Northgate College,Telangana,1,Drama,Theatre,5,3.7,The energy during Drama was top-notch and unforgettable.
+142,Tiffany Webb,Eastwood Institute,Telangana,3,Fashion Show,Style,2,4.8,"The timing for Fashion Show was a little tight, but overall great experience."
+143,Jeffrey Castillo,Highland Arts College,Kerala,2,Poetry,Literature,5,4.6,Loved the organization and the judges' feedback after Poetry.
+144,Charles Potter,Zenith Institute,Tamil Nadu,5,Painting,Art,4,3.5,I wish there was more audience interaction in Painting.
+145,Sheryl Romero,Sunrise University,Kerala,5,Painting,Art,1,4.4,"The timing for Painting was a little tight, but overall great experience."
+146,Michael Davila,Lakeshore University,Tamil Nadu,1,Singing,Music,2,3.0,I wish there was more audience interaction in Singing.
+147,Krista Dodson,Lakeshore University,Karnataka,5,Painting,Art,4,4.5,Amazing vibe and super supportive crowd for Painting!
+148,Mallory Moore,Lakeshore University,Uttar Pradesh,1,DJ Battle,Music,6,3.3,The energy during DJ Battle was top-notch and unforgettable.
+149,Tanya Casey,Northgate College,Tamil Nadu,2,Singing,Music,3,3.6,The energy during Singing was top-notch and unforgettable.
+150,Sara Cook,Metro Cultural College,Karnataka,2,Rap,Music,5,5.0,I enjoyed meeting participants from different colleges during Rap.
+151,Jesus Parker,Eastwood Institute,Goa,5,Poetry,Literature,3,4.5,Great sound system for Poetry. Please keep this up next year!
+152,Jordan Jimenez,INBLOOM Academy,West Bengal,1,Rap,Music,1,4.1,I enjoyed meeting participants from different colleges during Rap.
+153,Nicholas Porter,Sunrise University,Delhi,5,Poetry,Literature,2,4.7,I enjoyed meeting participants from different colleges during Poetry.
+154,Jason Gordon,Highland Arts College,Uttar Pradesh,2,Magic Show,Performance,1,3.9,I enjoyed meeting participants from different colleges during Magic Show.
+155,John Lee,Lakeshore University,Maharashtra,5,DJ Battle,Music,3,3.3,The energy during DJ Battle was top-notch and unforgettable.
+156,Mr. James Long MD,Apex College,Telangana,5,Fashion Show,Style,4,3.6,Could improve the stage setup for Fashion Show sessions.
+157,Kevin Alexander,Sunrise University,Karnataka,2,Rap,Music,6,4.8,I wish there was more audience interaction in Rap.
+158,Susan Scott,Highland Arts College,Telangana,2,Rap,Music,3,3.6,Could improve the stage setup for Rap sessions.
+159,Andrea Lee,Riverbend College,Telangana,4,Stand-up Comedy,Comedy,4,3.9,Could improve the stage setup for Stand-up Comedy sessions.
+160,Diane Lang,INBLOOM Academy,West Bengal,1,Singing,Music,1,4.0,Could improve the stage setup for Singing sessions.
+161,Amanda Newton,Eastwood Institute,Rajasthan,5,Stand-up Comedy,Comedy,3,3.2,Great sound system for Stand-up Comedy. Please keep this up next year!
+162,Kevin Shepherd,Highland Arts College,Delhi,5,Stand-up Comedy,Comedy,2,4.5,I wish there was more audience interaction in Stand-up Comedy.
+163,Kyle Miller,Riverbend College,Telangana,5,Rap,Music,2,3.1,Amazing vibe and super supportive crowd for Rap!
+164,Charles Hammond,Northgate College,Tamil Nadu,1,Dance,Performance,1,4.2,I wish there was more audience interaction in Dance.
+165,Justin Jacobs,Eastwood Institute,West Bengal,5,Poetry,Literature,6,3.3,I enjoyed meeting participants from different colleges during Poetry.
+166,Walter Peck,Eastwood Institute,Kerala,5,Painting,Art,5,3.6,I wish there was more audience interaction in Painting.
+167,Jonathan Williamson,Highland Arts College,Rajasthan,2,Painting,Art,5,3.7,I enjoyed meeting participants from different colleges during Painting.
+168,Christine Bowman,Metro Cultural College,Goa,4,Magic Show,Performance,6,3.7,Great sound system for Magic Show. Please keep this up next year!
+169,Erica Henry,Zenith Institute,West Bengal,5,Dance,Performance,5,3.2,Loved the organization and the judges' feedback after Dance.
+170,Kelly Perez,INBLOOM Academy,Karnataka,1,Painting,Art,3,3.2,I enjoyed meeting participants from different colleges during Painting.
+171,Olivia Wagner,INBLOOM Academy,Delhi,3,Poetry,Literature,1,3.1,"The timing for Poetry was a little tight, but overall great experience."
+172,Margaret Smith,INBLOOM Academy,Rajasthan,1,Painting,Art,2,4.0,"The timing for Painting was a little tight, but overall great experience."
+173,Katherine Nguyen,Lakeshore University,Karnataka,1,Drama,Theatre,3,4.4,Loved the organization and the judges' feedback after Drama.
+174,Alyssa Jackson,Highland Arts College,Rajasthan,3,Poetry,Literature,2,4.9,"The timing for Poetry was a little tight, but overall great experience."
+175,Sherry Brown,Lakeshore University,Uttar Pradesh,3,Singing,Music,6,4.5,Amazing vibe and super supportive crowd for Singing!
+176,Brian Dickerson,Sunrise University,Karnataka,4,Drama,Theatre,2,4.9,I wish there was more audience interaction in Drama.
+177,Amber Buckley,Zenith Institute,Goa,4,Stand-up Comedy,Comedy,4,3.1,Amazing vibe and super supportive crowd for Stand-up Comedy!
+178,Lauren Allen,Highland Arts College,Uttar Pradesh,4,Drama,Theatre,2,3.6,Loved the organization and the judges' feedback after Drama.
+179,Holly Atkins,Riverbend College,Goa,1,Poetry,Literature,4,4.0,The energy during Poetry was top-notch and unforgettable.
+180,Adam Stevenson DDS,Riverbend College,Karnataka,3,DJ Battle,Music,1,4.3,"The timing for DJ Battle was a little tight, but overall great experience."
+181,Rachel Smith,Riverbend College,Telangana,1,Magic Show,Performance,4,4.6,"The timing for Magic Show was a little tight, but overall great experience."
+182,Mr. Michael Hinton,Eastwood Institute,Rajasthan,2,Drama,Theatre,6,4.4,Loved the organization and the judges' feedback after Drama.
+183,Amanda Adams,Apex College,Maharashtra,3,Magic Show,Performance,3,3.5,Great sound system for Magic Show. Please keep this up next year!
+184,Russell Padilla,Apex College,Maharashtra,1,Magic Show,Performance,4,3.3,The energy during Magic Show was top-notch and unforgettable.
+185,Jerry Burns Jr.,Metro Cultural College,Kerala,3,Drama,Theatre,1,3.0,I enjoyed meeting participants from different colleges during Drama.
+186,Omar Jones,Northgate College,Maharashtra,2,Fashion Show,Style,6,4.0,"The timing for Fashion Show was a little tight, but overall great experience."
+187,Jeffrey Cruz,Metro Cultural College,Tamil Nadu,3,Stand-up Comedy,Comedy,2,3.9,Great sound system for Stand-up Comedy. Please keep this up next year!
+188,Lisa Austin,Northgate College,West Bengal,3,DJ Battle,Music,2,4.1,I wish there was more audience interaction in DJ Battle.
+189,Joseph Green,Metro Cultural College,Maharashtra,2,DJ Battle,Music,4,3.5,The energy during DJ Battle was top-notch and unforgettable.
+190,Susan Harper,Sunrise University,West Bengal,3,Painting,Art,1,4.1,Could improve the stage setup for Painting sessions.
+191,Molly Wolfe,Sunrise University,Uttar Pradesh,1,Drama,Theatre,5,3.7,The energy during Drama was top-notch and unforgettable.
+192,Ashley Mcmahon,Zenith Institute,Rajasthan,1,Magic Show,Performance,4,4.0,Could improve the stage setup for Magic Show sessions.
+193,Casey Sellers,Metro Cultural College,Kerala,2,Dance,Performance,3,4.4,Amazing vibe and super supportive crowd for Dance!
+194,Cassandra Berger MD,Zenith Institute,Delhi,3,Painting,Art,4,3.5,I enjoyed meeting participants from different colleges during Painting.
+195,Allison Williams,Metro Cultural College,Telangana,2,Poetry,Literature,4,4.3,"The timing for Poetry was a little tight, but overall great experience."
+196,Jamie Aguirre,Lakeshore University,West Bengal,4,Stand-up Comedy,Comedy,4,3.8,Loved the organization and the judges' feedback after Stand-up Comedy.
+197,Heather Harrison,Metro Cultural College,West Bengal,3,Stand-up Comedy,Comedy,2,3.9,Could improve the stage setup for Stand-up Comedy sessions.
+198,Sandra Dominguez,INBLOOM Academy,Rajasthan,3,Poetry,Literature,6,4.2,I enjoyed meeting participants from different colleges during Poetry.
+199,Mary Jones,Northgate College,Goa,4,DJ Battle,Music,5,3.7,Amazing vibe and super supportive crowd for DJ Battle!
+200,Tony Blake,Highland Arts College,Karnataka,3,Painting,Art,6,4.4,Loved the organization and the judges' feedback after Painting.
+201,Brent Kramer,Eastwood Institute,Delhi,1,Rap,Music,1,3.4,Could improve the stage setup for Rap sessions.
+202,Christopher Mcdowell,Zenith Institute,West Bengal,5,Singing,Music,3,4.4,Loved the organization and the judges' feedback after Singing.
+203,David Butler,Apex College,West Bengal,1,Singing,Music,2,4.8,"The timing for Singing was a little tight, but overall great experience."
+204,Lori Clark,Eastwood Institute,Goa,1,Fashion Show,Style,5,4.5,Great sound system for Fashion Show. Please keep this up next year!
+205,Daniel Taylor,Highland Arts College,Delhi,2,Dance,Performance,6,4.3,Amazing vibe and super supportive crowd for Dance!
+206,Paul Nelson,Northgate College,Rajasthan,2,DJ Battle,Music,5,3.4,Could improve the stage setup for DJ Battle sessions.
+207,Connie Blake,Eastwood Institute,Maharashtra,2,Painting,Art,3,4.4,I enjoyed meeting participants from different colleges during Painting.
+208,Rebekah Richardson,Sunrise University,Rajasthan,2,Painting,Art,3,4.8,Could improve the stage setup for Painting sessions.
+209,David Hale,Highland Arts College,Goa,4,Stand-up Comedy,Comedy,3,4.4,Amazing vibe and super supportive crowd for Stand-up Comedy!
+210,Albert Watts,Zenith Institute,Maharashtra,4,Painting,Art,3,3.9,"The timing for Painting was a little tight, but overall great experience."
+211,Joanna King,INBLOOM Academy,Uttar Pradesh,3,Painting,Art,4,3.6,Loved the organization and the judges' feedback after Painting.
+212,David Wright,Zenith Institute,Uttar Pradesh,1,Rap,Music,3,3.8,Loved the organization and the judges' feedback after Rap.
+213,Jill Gonzalez,Apex College,Tamil Nadu,3,DJ Battle,Music,3,3.7,Great sound system for DJ Battle. Please keep this up next year!
+214,Bonnie Roberts,Highland Arts College,Delhi,2,DJ Battle,Music,5,4.6,The energy during DJ Battle was top-notch and unforgettable.
+215,Angel Hernandez,Sunrise University,Karnataka,1,Rap,Music,3,3.1,"The timing for Rap was a little tight, but overall great experience."
+216,Randy Wall,Lakeshore University,Rajasthan,5,Singing,Music,6,3.5,Could improve the stage setup for Singing sessions.
+217,Carlos Cooper,Eastwood Institute,Maharashtra,5,Magic Show,Performance,1,3.2,Loved the organization and the judges' feedback after Magic Show.
+218,William Key,Highland Arts College,Delhi,1,Dance,Performance,2,4.5,I wish there was more audience interaction in Dance.
+219,Mason Torres,Lakeshore University,Telangana,3,Dance,Performance,4,3.9,Could improve the stage setup for Dance sessions.
+220,Michelle Smith,Apex College,Tamil Nadu,5,Rap,Music,1,4.3,Could improve the stage setup for Rap sessions.
+221,Kevin Gonzales,INBLOOM Academy,Rajasthan,1,Drama,Theatre,3,4.7,I wish there was more audience interaction in Drama.
+222,Victoria Le,Northgate College,Tamil Nadu,1,Painting,Art,4,4.2,Amazing vibe and super supportive crowd for Painting!
+223,Suzanne Graham,INBLOOM Academy,Tamil Nadu,2,Magic Show,Performance,6,4.3,Amazing vibe and super supportive crowd for Magic Show!
+224,Annette Day,Sunrise University,Karnataka,5,Poetry,Literature,1,4.5,Loved the organization and the judges' feedback after Poetry.
+225,Sherri Barnett,Lakeshore University,West Bengal,4,Rap,Music,2,3.8,"The timing for Rap was a little tight, but overall great experience."
+226,Jessica White,Zenith Institute,Tamil Nadu,4,Fashion Show,Style,1,3.6,Loved the organization and the judges' feedback after Fashion Show.
+227,John Huff,Zenith Institute,Maharashtra,5,Fashion Show,Style,5,4.7,Great sound system for Fashion Show. Please keep this up next year!
+228,Zachary Andrews,Sunrise University,Kerala,3,Dance,Performance,5,5.0,Loved the organization and the judges' feedback after Dance.
+229,Kimberly Scott,Sunrise University,Uttar Pradesh,1,Singing,Music,6,4.5,Great sound system for Singing. Please keep this up next year!
+230,Julie Stevenson,Riverbend College,Maharashtra,3,Stand-up Comedy,Comedy,5,3.1,Could improve the stage setup for Stand-up Comedy sessions.
+231,Monica Hernandez,INBLOOM Academy,Telangana,4,Stand-up Comedy,Comedy,3,4.6,I wish there was more audience interaction in Stand-up Comedy.
+232,Jared Roberts,Metro Cultural College,Rajasthan,2,Drama,Theatre,1,4.7,I enjoyed meeting participants from different colleges during Drama.
+233,Patricia Smith,Lakeshore University,Kerala,1,Drama,Theatre,4,3.1,I wish there was more audience interaction in Drama.
+234,Theresa Simpson,Lakeshore University,Kerala,5,Magic Show,Performance,4,4.0,"The timing for Magic Show was a little tight, but overall great experience."
+235,Eddie Lee,Highland Arts College,Goa,1,Stand-up Comedy,Comedy,3,4.7,Amazing vibe and super supportive crowd for Stand-up Comedy!
+236,Jean Weber,Apex College,Uttar Pradesh,5,Magic Show,Performance,1,4.4,Amazing vibe and super supportive crowd for Magic Show!
+237,Carol Wolfe,Zenith Institute,West Bengal,4,DJ Battle,Music,5,3.3,Could improve the stage setup for DJ Battle sessions.
+238,Jill Ramos,Sunrise University,Goa,1,Stand-up Comedy,Comedy,4,3.7,I enjoyed meeting participants from different colleges during Stand-up Comedy.
+239,Edward Charles,INBLOOM Academy,Telangana,1,Drama,Theatre,5,3.7,The energy during Drama was top-notch and unforgettable.
+240,Christopher Mitchell,Northgate College,Telangana,2,Singing,Music,4,4.4,Amazing vibe and super supportive crowd for Singing!
+241,Kaylee Cummings,INBLOOM Academy,Goa,2,Painting,Art,3,4.5,Great sound system for Painting. Please keep this up next year!
+242,Sara Sanders,Sunrise University,Karnataka,4,Singing,Music,2,3.8,I wish there was more audience interaction in Singing.
+243,David Thompson,Apex College,Uttar Pradesh,5,Painting,Art,6,3.4,The energy during Painting was top-notch and unforgettable.
+244,Andrew Keller,Eastwood Institute,West Bengal,2,Poetry,Literature,1,4.8,Amazing vibe and super supportive crowd for Poetry!
+245,Jennifer Harris,Sunrise University,Rajasthan,2,Poetry,Literature,6,5.0,"The timing for Poetry was a little tight, but overall great experience."
+246,Jose Carr,Riverbend College,Uttar Pradesh,5,Poetry,Literature,6,4.5,I wish there was more audience interaction in Poetry.
+247,Julie Tucker,Highland Arts College,Kerala,1,Singing,Music,6,4.5,The energy during Singing was top-notch and unforgettable.
+248,Kelsey Ortiz,Zenith Institute,Goa,1,Magic Show,Performance,2,4.1,I wish there was more audience interaction in Magic Show.
+249,Valerie Hodge,Riverbend College,Telangana,4,Magic Show,Performance,1,3.8,The energy during Magic Show was top-notch and unforgettable.
+250,Jeffery Nguyen,Apex College,Karnataka,1,Fashion Show,Style,1,4.2,Could improve the stage setup for Fashion Show sessions.
